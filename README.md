@@ -14,7 +14,7 @@ From a Dental Technician to a **Web Developer**, my path has been unconventional
 
 ## 💼 What I Do
 
-As a developer who is always curious and eager to learn, I've embraced the challenges of working with various JavaScript frameworks. While I may have a junior title, my approach and dedication reflect a senior mindset. I believe in using technology as a tool for positive change, striving to create solutions that are not only efficient but also accessible and user-friendly.
+As a developer who is always curious and eager to learn, I've embraced the challenges of working with various JavaScript frameworks. My approach and dedication reflect my professional and personal mindset. I believe in using technology as a tool for positive change, striving to create solutions that are not only efficient but also accessible and user-friendly.
 
 
 
