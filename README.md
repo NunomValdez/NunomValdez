@@ -8,7 +8,7 @@ Before diving into the world of web development, I embarked on a career in denti
 
 ## 💼 What I Do
 
-As a developer who is always curious and eager to learn, I've embraced the challenges of working with various JavaScript frameworks. My approach and dedication reflect my mindset, and I also believe in using technology as a tool for positive change, striving to create solutions that are not only efficient and secure but also accessible and user-friendly.
+As a developer who is always curious and eager to learn, I've embraced the challenges of working with various JavaScript frameworks. My approach and dedication reflect my mindset and personality, and I also believe in using technology as a tool for positive change, striving to create solutions that are not only efficient and secure but also accessible and user-friendly.
 
 ## 🚀 Why I Love What I Do
 
