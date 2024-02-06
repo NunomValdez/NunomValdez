@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a passionate **Software Web Developer** based in Portu
 
 ## 🌱 My Journey
 
-From a Dental Technician to a web developer, my path has been unconventional. The precision and problem-solving skills from my dentistry days have seamlessly translated into coding, where solving puzzles and building solutions are daily tasks. This shift might surprise some, but it's taught me that at the core of both fields is a deep curiosity and a drive to improve lives. This unique background fuels my approach to technology, blending empathy, creativity, and technical expertise.
+From a Dental Technician to a **Web Developer**, my path has been unconventional. The precision and problem-solving skills from my dentistry days have seamlessly translated into coding, where solving puzzles and building solutions are daily tasks. This shift might surprise some, but it's taught me that at the core of both fields is a deep curiosity and a drive to improve lives. This unique background fuels my approach to technology, blending empathy, creativity, and technical expertise.
 
 
 
