@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there, I'm Nuno Valdez 👋
 
-<!--
-**NunomValdez/NunomValdez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a passionate software web developer based in Portugal, leveraging JavaScript and its myriad frameworks (like ReactJS, Angular, VueJS, NestJS, NextJS and more) to craft dynamic and responsive web apps. For me, programming is not just about writing code — it's about solving problems and making a difference, one line of code at a time.
 
-Here are some ideas to get you started:
+## 🌱 My Journey
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Before diving into the world of web development, I embarked on a career in dentistry as a Dental Technician. This experience honed my soft skills, teaching me the value of attention to detail, focus, determination, and commitment. Transitioning from dentistry to tech, I've found that the analytical and problem-solving skills required in biology and dentistry are surprisingly analogous to those in development. Every time people express surprise at my career shift, I highlight how both fields demand a similar mindset: a deep curiosity about how things work and a relentless pursuit of solutions. These qualities have been instrumental in my transition to tech, where I blend technical proficiency with empathy and creativity.
+
+## 💼 What I Do
+
+As a developer who is always curious and eager to learn, I've embraced the challenges of working with various JavaScript frameworks. My approach and dedication reflect my mindset, and I also believe in using technology as a tool for positive change, striving to create solutions that are not only efficient and secure but also accessible and user-friendly.
+
+## 🚀 Why I Love What I Do
+
+- **Problem Solving**: At heart, I'm a problem solver. Whether it's debugging a complex application or finding innovative ways to meet user needs, I thrive on overcoming challenges.
+- **Continuous Learning**: The ever-evolving nature of technology keeps me on my toes, always learning and adapting to new tools and frameworks.
+- **Making an Impact**: I'm driven by the belief that technology can make a difference, improving lives and connecting communities.
+
+## 📫 Let's Connect
+
+I'm always open to collaborating on projects or just chatting about technology and its potential to drive change. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nuno-valdez-39185327/)!
+
+Let's build something impactful together.
